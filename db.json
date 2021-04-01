@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 10
     },
     {
       "id": 3,
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Sonic",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81PtiSrDzVL._AC_SL1500_.jpg",
+      "likes": 7,
+      "id": 9
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://media.gamestop.com/i/gamestop/11048641/Pokemon-My-Partner-Pikachu-Electronic-Action-Figure",
+      "likes": 1,
+      "id": 10
+    },
+    {
+      "name": "Charmander",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5MQPN4ro6QwzmC7AmgJEaK6WG5ODfqGdcw&usqp=CAU",
+      "likes": 4,
+      "id": 11
     }
   ]
 }
